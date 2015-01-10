@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="edge" />
+<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+<title>BizVektor株式会社</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:700|Lato:900|Anton' rel='stylesheet' type='text/css' />
+<link rel='stylesheet' id='theme-css'  href='css/master.css' type='text/css' media='all' />
+</head>
+
+<body class="two-column right-sidebar">
+<div id="wrap">
+<!-- [ #headerTop ] -->
+<div id="headerTop">
+<div class="innerBox">
+<div id="site-description">ここにはホームページの簡単な説明が入ります。</div>
+</div>
+</div><!-- [ /#headerTop ] -->
+
+<!-- [ #header ] -->
+<div id="header">
+<div id="headerInner" class="innerBox">
+<!-- [ #headLogo ] -->
+<h1 id="site-title">
+<a href="index.html" title="BizVektor株式会社" rel="home">
+<img src="images/head_logo.png" alt="BizVektor株式会社" />
+</a>
+</h1>
+<!-- [ #headLogo ] -->
+
+<!-- [ #headContact ] -->
+<div id="headContact"><div id="headContactInner">
+<div id="headContactTxt">お気軽にお問い合わせください。</div>
+<div id="headContactTel">TEL 000-000-0000</div>
+<div id="headContactTime">電話受付時間 10：00～19：00（土・日・祝日除く）</div>
+</div></div><!-- [ /#headContact ] -->
+
+</div>
+<!-- #headerInner -->
+</div>
+<!-- [ /#header ] -->
+
+
+<!-- [ #gMenu ] -->
+<div id="gMenu" class="itemClose" onclick="showHide('gMenu');">
+<div id="gMenuInner" class="innerBox">
+<ul class="menu">
+<li><a href="index.html"><strong>トップページ</strong><span>Home</span></a></li>
+<li><a href="page.html"><strong>サービス案内</strong><span>Service</span></a></li>
+<li><a href="page.html"><strong>会社案内</strong><span>Company</span></a></li>
+<li><a href="info.html"><strong>お知らせ</strong><span>Information</span></a></li>
+<li><a href="page.html"><strong>お問い合わせ</strong><span>Contact</span></a></li>
+</ul></div>
+<!-- [ /#gMenuInner ] -->
+</div>
+<!-- [ /#gMenu ] -->
+<div id="topMainBnr">
+		<div id="topMainBnrFrame" class="flexslider">
+				<ul class="slides">
+						<li><span class="slideFrame"><img src="images/topVisual.jpg" alt="" /></span></li>
+						</ul>
+				</div>
+</div>
+<div id="main">
+		
+<!-- [ #container ] -->
+<div id="container" class="innerBox">
+
+<!-- [ #content ] -->
+<div id="content"> <!-- [ #topPr ] -->
+<div id="topPr">
+		<div id="topPrLeft" class="topPrOuter">
+		<div class="topPrInner">
+		<h3 class="topPrTit"><a href="/service/">サービス案内</a></h3>
+				<div class="topPrTxtBox">
+						<p class="topPrDescription"><a href="/service/">無料で使えるWordPressビジネステンプレート「BizVektor」の特徴をご紹介しています。</a></p>
+						<div class="moreLink"><a href="/service/">詳しくはこちら</a></div>
+		</div>
+		</div>
+		</div><!-- /#topPrLeft -->
+
+		<div id="topPrCenter" class="topPrOuter">
+		<div class="topPrInner">
+		<h3 class="topPrTit"><a href="/company/">会社概要</a></h3>
+				<div class="topPrTxtBox">
+						<p class="topPrDescription"><a href="/company/">ただ今BizVektor株式会社では一緒に働く仲間を募集しています。沢山のご応募をお待ちしています。</a></p>
+						<div class="moreLink"><a href="/company/">詳しくはこちら</a></div>
+		</div>
+		</div>
+		</div><!-- /#topPrCenter -->
+
+		<div id="topPrRight" class="topPrOuter">
+		<div class="topPrInner">
+		<h3 class="topPrTit"><a href="/contact/">お問い合わせ</a></h3>
+				<div class="topPrTxtBox">
+						<p class="topPrDescription">
+								<a href="/contact/">弊社サービスや採用に関するお問い合わせやご質問などお気軽にご連絡下さい。</a></p>
+						<div class="moreLink"><a href="/contact/">詳しくはこちら</a></div>
+		</div>
+		</div>
+		</div><!-- /#topPrRight -->
+</div>
+<!-- [ #topPr ] -->
+
+<div id="topInfo" class="infoList">
+
+	<h2>お知らせ</h2>
+
+	<ul class="entryList">
+
+	<!-- [ お知らせ（投稿）1件分 ] -->
+	<li>
+	<span class="infoDate">2012年2月12日</span>
+	<span class="infoCate"><a href="category.html" rel="tag">ベクトルからのお知らせ</a></span>
+	<span class="infoTxt"><a href="single.html">ゴールデンウィークの営業について</a></span>
+	</li>
+	<!-- [ / お知らせ（投稿）1件分 ] -->
+
+	<!-- [ お知らせ（投稿）1件分 ] -->
+	<li>
+	<span class="infoDate">2012年2月11日</span>
+	<span class="infoCate"><a href="category.html" rel="tag">ベクトルからのお知らせ</a></span>
+	<span class="infoTxt"><a href="single.html">BizVektor株式会社のホームページを公開しました。</a></span>
+	</li>
+	<!-- [ / お知らせ（投稿）1件分 ] -->
+
+	</ul>
+
+</div><!-- [ /#topInfo ] -->
+
+	</div>
+	<!-- [ /#content ] -->
+
+	<!-- [ #sideTower ] -->
+	<div id="sideTower">
+	<!-- [ 共通サイドバーアイテム ] -->
+		<ul>
+		<li class="sideBnr" id="sideContact"><a href="/contact/"><img src="images/bnr_contact.png" alt="お問い合わせ"></a></li>
+		</ul>
+		<ul id="snsBnr">
+		<li><a href="https://www.facebook.com/VektorInc" target="_blank"><img src="images/bnr_facebook.png" alt="facebook" /></a></li>
+		<li><a href="https://twitter.com/#!/vektor_inc" target="_blank"><img src="images/bnr_twitter.png" alt="twitter" /></a></li>
+		</ul>
+	<!-- [ /共通サイドバーアイテム ] -->
+	</div>
+	<!-- [ /#sideTower ] -->
+</div>
+<!-- [ /#container ] -->
+
+</div><!-- #main -->
+
+<!-- [ #footerSection ] -->
+<div id="footerSection">
+	<div id="pagetop">
+	<div id="pagetopInner" class="innerBox">
+	<a href="#wrap">PAGETOP</a>
+	</div>
+	</div>
+	
+	<div id="footMenu">
+	<div id="footMenuInner" class="innerBox">
+		<ul class="menu">
+		<li><a href="#">プライバシーポリシー</a></li>
+		<li><a href="#">サイトマップ</a></li>
+		</ul>
+	</div>
+	</div>
+	
+	<!-- [ #footer ] -->
+	<div id="footer">
+	<!-- [ #footerInner ] -->
+	<div id="footerInner" class="innerBox">
+		<dl id="footerOutline">
+		<dt>BizVektor株式会社</dt>
+		<dd>
+		〒000-000<br />
+愛知県あま市○○○丁目○○番地<br />
+TEL : 000-000-0000<br />
+FAX : 000-000-0000
+		</dd>
+		</dl>
+	</div>
+	<!-- [ /#footerInner ] -->
+	</div>
+	<!-- [ /#footer ] -->
+	
+	<!-- [ #siteBottom ] -->
+	<div id="siteBottom">
+	<div id="siteBottomInner" class="innerBox">
+	<div id="copy">Copyright &copy; <a href="http://sample.bizvektor.com/" rel="home">BizVektor株式会社</a> All Rights Reserved.</div><div id="powerd">Powered by <a href="https://ja.wordpress.org/">WordPress</a> &amp; <a href="http://bizVektor.com" target="_blank" title="BizVektor(ビズベクトル) WordPressテーマ">BizVektor Theme</a> by <a href="http://www.vektor-inc.co.jp" target="_blank" title="株式会社ベクトル -ホームページ制作・WordPressカスタマイズ- [ 愛知県名古屋市・あま市 ]">Vektor,Inc.</a> technology.</div>	</div>
+	</div>
+	<!-- [ /#siteBottom ] -->
+</div>
+<!-- [ /#footerSection ] --></div>
+<!-- [ /#wrap ] -->
+
+</body>
+</html>
